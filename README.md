@@ -1,6 +1,6 @@
 # Appcircle Sample App for React Native Builds
 
-This is a sample React Native app for testing React Native App build functionality in Appcircle. As a cross-platform project, this repository can be used both for iOS and Android builds.
+This is a sample React Native app for testing React Native App build functionality in Appcircle. As a cross-platform project, this repository can be used both for iOS and Android builds.s
 
 ## Using the Appcircle Build Module
 You can find more information about the Appcircle Build Module and how to connect a Git repository in the [Appcircle Documentation](https://docs.appcircle.io/build/)..
