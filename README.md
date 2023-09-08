@@ -7,7 +7,7 @@ You can find more information about the Appcircle Build Module and how to connec
 
 
 ## Contribution
-You can  contribute to this repository with fixes and feature updates that do not deviate from the original purpose of the app, which is to demonstrate how the Appcircle Build Module is used.s
+You can  contribute to this repository with fixes and feature updates that do not deviate from the original purpose of the app, which is to demonstrate how the Appcircle Build Module is used.
 
 ## Reporting an Issue / Reaching Us
 If you encounter any issues related with the app in this repository, you can raise an issue here.
